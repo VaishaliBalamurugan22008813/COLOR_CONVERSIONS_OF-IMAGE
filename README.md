@@ -36,6 +36,11 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
+import cv2
+image=cv2.imread('diptex1.jpg')
+cv2.imshow('vaishali',image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ### Developed By:
 ### Register Number: 
 
@@ -45,6 +50,8 @@ Split and merge HSV Image
 ### i) Read and display the image
 
 <br>
+![out1dip](https://github.com/VaishaliBalamurugan22008813/COLOR_CONVERSIONS_OF-IMAGE/assets/119390134/6a2520c6-247c-4154-9c92-268255c5c38e)
+
 <br>
 
 ### ii)Write the image
