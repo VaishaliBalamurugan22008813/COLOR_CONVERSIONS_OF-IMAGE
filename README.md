@@ -48,9 +48,16 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### i) Read and display the image
-
+```
+import cv2
+image=cv2.imread('diptex1.jpg')
+cv2.imshow('vaishali',image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
 <br>
-![out1dip](https://github.com/VaishaliBalamurugan22008813/COLOR_CONVERSIONS_OF-IMAGE/assets/119390134/6a2520c6-247c-4154-9c92-268255c5c38e)
+![image](https://github.com/VaishaliBalamurugan22008813/COLOR_CONVERSIONS_OF-IMAGE/assets/119390134/b4dda176-07d4-4537-82cd-cfb54822cfed)
+
 
 <br>
 
